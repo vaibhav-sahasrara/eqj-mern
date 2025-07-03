@@ -25,10 +25,12 @@ const Layout = () => {
           className="w-20 h-20 object-cover shadow-lg"
         />
         <div className="text-right text-gray-700 font-sans leading-tight ml-auto">
-          <div className="text-[17px] font-medium tracking-wide text-gray-900">
+          <div className="text-[17px] font-extrabold tracking-wide text-[#0a3b6b]">
             {date}
           </div>
-          <div className="text-[18px] text-gray-600 mt-1">{time}</div>
+          <div className="text-[18px] font-semibold text-[#0a3b6b] mt-1">
+            {time}
+          </div>
         </div>
       </div>
 
