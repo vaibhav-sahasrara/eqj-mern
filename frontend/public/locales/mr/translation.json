@@ -1,0 +1,47 @@
+{
+    
+    "liveCaseBoard": "लाइव केस बोर्ड",
+  "courtWorkingDays": "न्यायालयीन कामकाजाचे दिवस",
+  "caseStatusAndParties": "केसची स्थिती आणि पक्षकार",
+     "officeLogin": "कार्यालय लॉगिन",
+  "govtOfMaharashtra": "महाराष्ट्र शासन",
+  "revenueForestDept": "महसूल व वन विभाग",
+   "select": "निवडा",
+  "selectDistrict": "जिल्हा निवडा",
+  "selectCourt": "मुख्य न्यायालय निवडा",
+  "selectOffice": "कार्यालय निवडा",
+  "pune": "पुणे",
+  "nagpur": "नागपूर",
+  "nashik": "नाशिक",
+  "bombayHighCourt": "बॉम्बे उच्च न्यायालय",
+  "aurangabadBench": "औरंगाबाद खंडपीठ",
+  "nagpurBench": "नागपूर खंडपीठ",
+  "talathiOffice": "तलाठी कार्यालय",
+  "tehsilOffice": "तहसील कार्यालय",
+  "collectorOffice": "जिल्हाधिकारी कार्यालय",
+  "caseNumber": "केस क्रमांक",
+  "caseYear": "केस वर्ष",
+  "search": "शोधा",
+  "searchingCase": "केस शोधत आहोत",
+  "proceed": "पुढे जा",
+  "goBack": "मागे जा",
+
+
+   "home": "मुख्यपृष्ठ",
+  "caseStatusAndParty": "केसची स्थिती आणि पक्षकार",
+  "districtInfo": "जिल्ह्याची माहिती",
+  "guide": "मार्गदर्शक",
+  "chooseLanguage": "भाषा निवडा",
+  "feedback": "अभिप्राय",
+  "contact": "संपर्क",
+  "share": "शेअर करा",
+
+
+   "login": "लॉगिन",
+  "username": "वापरकर्ता नाव",
+  "password": "पासवर्ड",
+  "yourName": "तुमचे नाव",
+  "forgotPassword": "पासवर्ड विसरलात?",
+  "note": "टीप",
+  "loginNote": "हे लॉगिन फक्त्त महसूल कर्मचाऱ्यांसाठीच आहे."
+}

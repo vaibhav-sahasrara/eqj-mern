@@ -111,7 +111,7 @@ const CaseBoard = () => {
     <div className="bg-white text-gray-800 p-6 rounded shadow mt-9 w-full">
       <h2 className="text-2xl font-bold mb-4 text-center">लाइव केस बोर्ड</h2>
 
-      <div className="flex flex-wrap justify-center gap-4 text-white font-semibold text-sm mb-6">
+      {/* <div className="flex flex-wrap justify-center gap-4 text-white font-semibold text-sm mb-6">
         <span className="bg-orange-600 px-4 py-2 rounded-md">
           प्रलंबित सुनावणीसाठी
         </span>
@@ -121,7 +121,26 @@ const CaseBoard = () => {
           सुनावणीसाठी वाट पाहत आहेत
         </span>
         <span className="bg-gray-600 px-4 py-2 rounded-md">ऐकलेले खटले</span>
-      </div>
+      </div> */}
+
+      <div className="flex flex-wrap justify-center gap-4 text-white font-semibold text-sm mb-6">
+  <span className="bg-orange-600 px-4 py-2 rounded-md">
+    Pending for Hearing
+  </span>
+  <span className="bg-green-600 px-4 py-2 rounded-md">
+    Active Cases
+  </span>
+  <span className="bg-yellow-500 px-4 py-2 rounded-md">
+    Postponed Cases
+  </span>
+  <span className="bg-blue-600 px-4 py-2 rounded-md">
+    Waiting for Hearing
+  </span>
+  <span className="bg-gray-600 px-4 py-2 rounded-md">
+    Heard Cases
+  </span>
+</div>
+
 
       <table className="w-full table-auto border border-gray-300 text-center">
         <thead className="bg-gray-100">

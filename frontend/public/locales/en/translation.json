@@ -1,0 +1,48 @@
+{
+    "liveCaseBoard": "Live Case Board",
+  "courtWorkingDays": "Court Working Days",
+  "caseStatusAndParties": "Case Status & Parties",
+    "officeLogin": "Office Login",
+  "govtOfMaharashtra": "Government of Maharashtra",
+  "revenueForestDept": "Revenue and Forest Department",
+  "select": "Select",
+  "selectDistrict": "Select District",
+  "selectCourt": "Choose The Main  Court",
+  "selectOffice": "Select Office",
+  "pune": "Pune",
+  "nagpur": "Nagpur",
+  "nashik": "Nashik",
+  "bombayHighCourt": "Bombay High Court",
+  "aurangabadBench": "Aurangabad Bench",
+  "nagpurBench": "Nagpur Bench",
+  "talathiOffice": "Talathi Office",
+  "tehsilOffice": "Tehsil Office",
+  "collectorOffice": "Collector Office",
+  "caseNumber": "Case Number",
+  "caseYear": "Case Year",
+  "search": "Search",
+  "searchingCase": "Searching Case",
+  "proceed": "Proceed",
+  "goBack": "Go Back",
+
+  "home": "Home",
+  
+  "caseStatusAndParty": "Case Status & Parties",
+  "districtInfo": "District Info",
+  "guide": "Guide",
+  "chooseLanguage": "Choose Language",
+  "feedback": "Feedback",
+  "contact": "Contact",
+  "share": "Share",
+
+  
+
+
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "yourName": "Your name",
+  "forgotPassword": "Forgot password?",
+  "note": "Note",
+  "loginNote": "This login is for Revenue Department officers only."
+}
